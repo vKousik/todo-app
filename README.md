@@ -36,11 +36,3 @@ This application is built as a Micro-Frontend and supports:
 - 🔹 Host-controlled mounting via exported `mount()` function
 
 
-src/
- ├── main.js
- ├── App.vue
- ├── stores/
- │    └── todoStore.js
- └── components/
-      ├── TodoList.vue
-      └── TodoItems.vue
